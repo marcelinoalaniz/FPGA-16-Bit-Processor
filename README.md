@@ -1,1 +1,1 @@
-# FPGA-16-Bit-Processor
+During the semester, I collaborated with a team in my Digital Logic Design (ELEC 326) class to develop a 16-bit processor capable of performing arithmetic operations on 16-bit integers. We designed and implemented various modules such as alu.v, branch.v decoder.v, program_counter.v, and regfile.v throughout the semester. The final product was achieved by interconnecting all these in processor.v. This class provided me with extensive knowledge and hands experience in Verilog, Digital Logic Design, and State Machines.
